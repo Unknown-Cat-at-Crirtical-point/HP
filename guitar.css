@@ -1,1 +1,19 @@
+body {
+    font-family: "Avenir Next";
+}
+
+.header{
+    background-color: #5f0f40;
+    color:#fff;
+    height: 90px;
+}
+.videowindow{
+    float: left;
+    width:auto
+    font-size:36px;
+    padding:40px  
+}
+
+
+
 
