@@ -10,6 +10,7 @@ body {
 .videowindow{
     float: left;
     width:auto;
+    padding: 30px;
 }
 
 
